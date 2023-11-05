@@ -1,2 +1,2 @@
-# JavaScript--ECMASCRIPT-Features
-This Repository contains A List of JavaScript ECMASCRIPT Editions and It's Features List
+# JavaScript ECMASCRIPT(ES6+) -Features
+This Repository contains A List of JavaScript ECMAScript Editions and It's Features List
